@@ -13,19 +13,19 @@
 
 ## Blogs
 
-Week 1 : [What is your favourite board game and why?]()
+Week 1 : [What is your favourite board game and why?](https://medium.com/@e.roberts/what-is-your-favourite-board-game-and-why-854dd5c2fa17)
 
-Week 2: [When creating online content for children, what are some of the ethical considerations you need to take?]()
+Week 2: [When creating online content for children, what are some of the ethical considerations you need to take?](https://medium.com/@e.roberts/when-creating-online-content-for-children-what-are-some-of-the-ethical-considerations-you-need-to-e47e053cfdb)
 
-Week 3: [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?]()
+Week 3: [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@e.roberts/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-eb63b8d9ee61)
 
-Week 5: [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)]()
+Week 5: [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@e.roberts/reflect-and-evidence-your-contribution-to-this-group-project-so-far-b86e875e6d94)
 
-Week 6: [Evidence and analyse how games have developed through time.]()
+Week 6: [Evidence and analyse how games have developed through time.](https://medium.com/@e.roberts/evidence-and-analyse-how-games-have-developed-through-time-e31eab23dfaf)
 
-Week 7: [500 words reflective report on your (Why, what, where, when & how) contribution to this project.]()
+Week 7: [500 words reflective report on your (Why, what, where, when & how) contribution to this project.](https://medium.com/@e.roberts/500-words-reflective-report-on-your-why-what-where-when-how-contribution-to-this-project-8eaf02f6b6fb)
 
-Week 8: [500 words, dissect and discuss a core game mechanics behind an online game of their choice.]()
+Week 8: [500 words, dissect and discuss a core game mechanics behind an online game of their choice.](https://medium.com/@e.roberts/500-words-dissect-and-discuss-a-core-game-mechanics-behind-an-online-game-of-their-choice-69034017449c)
 
 
 ## Links
