@@ -9,7 +9,7 @@
 **Course:** WEB14205
 
 ## Introduction
-This brief gave us the opportunity to combine creative writing (something quite new to us) and making it interactive with transmedia. It was nice to be able to push myself out of my comfort zone to try something new rather that residing to the design side, which I would usually do.
+
 
 ## Blogs
 
@@ -30,8 +30,8 @@ Week 8: [500 words, dissect and discuss a core game mechanics behind an online g
 
 ## Links
 
-* [Research Pack]()
-* [Media Assets]()
+* [Research Pack](https://docs.google.com/document/d/1JSHa4pcsvwXE42bci0OSdwDtmCMI96wCsp-peImPElI/edit?usp=sharing)
+* [Media Assets](https://drive.google.com/drive/folders/1dK_Cp3qLm9Z3qnWOqoQEgIj8VYTTBK3R?usp=sharing)
 * [Board Game Production]()
 * [Phaser Production](https://eroberts28.github.io/whatswhatgame/)
 * [Formative Presentation]()
