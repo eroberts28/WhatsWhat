@@ -8,8 +8,6 @@
 
 **Course:** WEB14205
 
-## Introduction
-
 
 ## Blogs
 
